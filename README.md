@@ -702,7 +702,7 @@ Special thanks to:
 
 **Don Shammah**
 - GitHub: [@donshammah96](https://github.com/donshammah96)
-- Email: donshammah96@gmail.com
+- Email: donshammah1@gmail.com
 - Project Link: [https://github.com/donshammah96/custom-shell](https://github.com/donshammah96/custom-shell)
 
 ## Project Status
@@ -737,6 +737,6 @@ The project is currently in the planning and design phase. The next steps includ
 
 ---
 
-**Last Updated:** December 2024
+**Last Updated:** December 2025
 
 For questions, suggestions, or contributions, please open an issue or submit a pull request!
